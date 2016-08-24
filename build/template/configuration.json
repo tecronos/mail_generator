@@ -1,0 +1,32 @@
+{
+	"template_core": "template.html",
+	"template_title": "Your <VEHICLE> anniversary is almost here",
+	"template_preheader": "An anniversary present is coming your way.",
+	"template_list": 
+		[
+			{
+				"active": true,
+				"section_name": "OWNER HEADER LOGO",
+				"template": "header.html",
+				"style": "header.css"
+			},
+			{
+				"active": true,
+				"section_name": "CLICK ME",
+				"template": "click_me.html",
+				"style": ""
+			},
+			{
+				"active": true,
+				"section_name": "HERO",
+				"template": "hero.html",
+				"style": "hero.css"
+			},
+			{
+				"active": true,
+				"section_name": "SHARE",
+				"template": "share.html",
+				"style": "share.css"
+			}
+		]
+}

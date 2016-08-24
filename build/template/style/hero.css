@@ -1,0 +1,4 @@
+@media only screen and (max-width: 480px) {
+    /* Hero */
+    img[class="hero-mobile"] {width:320px !important;height: 309px !important;}
+}

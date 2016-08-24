@@ -18,5 +18,5 @@ gulp.task('browser-sync',['php'], function() {
 });
 
 gulp.task('watch', ['browser-sync'], function () {
-    gulp.watch(['build/*.php'], [reload]);
+    gulp.watch(['build/index.php'], [reload]);
 });

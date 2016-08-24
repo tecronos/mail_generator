@@ -1,0 +1,4 @@
+@media only screen and (max-width: 480px) {
+	/* Share */
+	img[class="mitsu-share"] {width:320px !important;height:86px !important;}
+}
