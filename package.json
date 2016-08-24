@@ -1,0 +1,20 @@
+{
+  "name": "mail",
+  "version": "1.0.0",
+  "description": "This tool will help you to create a nice mails",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp-connect-php": "0.0.8",
+    "gulp-watch": "^4.3.9",
+    "watch": "^0.19.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henry Hidalgo",
+  "license": "ISC"
+}
